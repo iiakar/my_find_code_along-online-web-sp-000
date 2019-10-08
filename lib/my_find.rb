@@ -5,7 +5,6 @@ def my_find(collection)
   while i < collection.length 
     return 
       collection[i] 
-      return 
       if 
       yield(collection[i])
     
